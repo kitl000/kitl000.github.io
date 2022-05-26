@@ -1,5 +1,5 @@
 ---
-title: "Hooked - Nir Eyal"
+title: "Hooked by Nir Eyal"
 categories:
   - Nir Eyal
 tags:

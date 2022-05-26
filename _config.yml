@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kit L."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A cyber security professional turned digital nomad with a background in web development"
+  bio    : "Blog to put my kindle notes in one place without the need to search for them through quotes"
   location: "Somewhere"
   links:
       - label: "GitHub"
@@ -100,9 +100,10 @@ defaults:
       classes: wide
       author_profile: true
 
-authors_archive:
+category_archive:
   type: liquid
-  path: /authors/
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+

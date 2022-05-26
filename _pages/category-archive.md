@@ -1,6 +1,6 @@
 ---
 title: "Notes by Author"
 layout: categories
-permalink: /authors/
+permalink: /categories/
 author_profile: true
 ---

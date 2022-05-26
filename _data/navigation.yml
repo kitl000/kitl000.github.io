@@ -2,7 +2,7 @@ main:
   - title: "Notes"
     url: /posts/
   - title: "Authors"
-    url: /authors/
+    url: /categories/
   - title: "Tags"
     url: /tags/
   # - title: "About"

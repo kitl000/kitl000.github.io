@@ -1,10 +1,10 @@
 ---
 title: "Hooked - Nir Eyal"
-date: 2022-06-26
-# categories:
-#   - kindle
+categories:
+  - Nir Eyal
 tags:
-  - business
+  - Business
+  - Social Science
 ---
 
 Why do some products capture our attention while others flop? What makes us engage with certain things out of sheer habit? Is there an underlying pattern to how technologies hook us? Nir Eyal answers these questions (and many more) with the Hook Model – a four-step process that, when embedded into products, subtly encourages customer behaviour. Hooked is based on Eyal’s years of research, consulting, and practical experience. He wrote the book he wished had been available to him as a start-up founder – not abstract theory, but a how-to guide for building better products.

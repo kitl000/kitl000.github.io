@@ -100,9 +100,9 @@ defaults:
       classes: wide
       author_profile: true
 
-category_archive:
+authors_archive:
   type: liquid
-  path: /categories/
+  path: /authors/
 tag_archive:
   type: liquid
   path: /tags/

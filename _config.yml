@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kit L."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Blog to put my kindle notes in one place without the need to search for them through quotes"
+  bio    : "Blog to put my kindle notes in one place without the need to search for them using Jekyll 4, minimal-mistakes theme & Github pages."
   location: "Somewhere"
   links:
       - label: "GitHub"

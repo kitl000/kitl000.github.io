@@ -1,7 +1,7 @@
 ---
 title: "The Little Book of Hygge"
 categories:
-  -Meik Wiking
+  - Meik Wiking
 tags:
   - Home
 ---

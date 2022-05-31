@@ -1,5 +1,5 @@
 ---
-title: "The Little Book of Hygge"
+title: "The Little Book of Hygge by Meik Wiking"
 categories:
   - Meik Wiking
 tags:
